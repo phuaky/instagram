@@ -1,0 +1,98 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+#Whole {
+  width: 1000px;
+  margin: auto;
+  margin-top: 100px;
+}
+
+#Left {
+  float: left;
+  width: 40%;
+}
+
+#Right {
+  float: right;
+  width: 50%;
+}
+
+#Brand {
+  display: inline-block;
+}
+
+#Login {
+  display: inline-block;
+  position: relative;
+  bottom: 20px;
+  left: 67px;
+}
+
+.button {
+  background: #1c5380;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+body {
+  background-image: url("/Users/Phuaky/Code/16AUG/Assignments/Instagram/img/bgtile.png");
+  background-repeat: repeat-x;
+  background-color: white;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: grey;
+  font-family: arial;
+
+}
+
+.content {
+  border-radius: 5px;
+  background-image: url("/Users/Phuaky/Code/16AUG/Assignments/Instagram/img/frame.png");
+  background-repeat: no-repeat;
+  padding-top: 1%;
+  padding-right: 5%;
+  padding-left:5%;
+
+
+}
+
+h1 {
+  color: #06365f;
+  font-size: 30px;
+}
+
+.downloads1 {
+  padding-left: 5%;
+  margin: 10px;
+}
+
+
+
+.footer {
+  padding-top: 30px;
+  margin-top: 200px;
+  clear: both;
+  text-align: center;
+  position: relative;
+
+}
+
+a {
+  text-decoration: none;
+  color: #1c5380;
+  margin: 8px;
+
+}
+
+span {
+  color: grey;
+}
